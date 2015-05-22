@@ -6,7 +6,7 @@ This is a working example of a Docker wrapped application in KBC. Description of
 
 ```
 git clone https://github.com/keboola/docker-demo-docker.git
-cd docker-demo
+cd docker-demo-docker
 sudo docker build --no-cache -t keboola/docker-demo .
 ```
 
