@@ -1,6 +1,6 @@
-# VERSION 1.1.0
 FROM keboola/base-php
 MAINTAINER Ondrej Hlavacek <ondrej.hlavacek@keboola.com>
+ENV APP_VERSION 1.0.0
 
 WORKDIR /home
 
